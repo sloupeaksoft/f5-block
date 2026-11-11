@@ -1,0 +1,14 @@
+[
+{
+  "modid": "nothirdperson",
+  "name": "No Third Person",
+  "description": "Blocks F5 and disables third-person view.",
+  "version": "1.0",
+  "mcversion": "1.12.2",
+  "authorList": [],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
